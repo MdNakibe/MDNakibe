@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nakibul Islam Emran</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
-<img width="400" src="https://i.gifer.com/3BBS.gif" alt="mdnakibe" />
+<img src="https://media.licdn.com/dms/image/D5616AQFM_r5kvzuq3g/profile-displaybackgroundimage-shrink_350_1400/0/1711482182060?e=1724889600&v=beta&t=-5xmwFX_Tlk1saHZ7xfB_fUPxcJBXkRcq3aSoZZ6udI" alt="mdnakibe" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnakibe&label=Profile%20views&color=0e75b6&style=flat" alt="mdnakibe" /> </p>
 
 - 🔭 I’m currently working on [Speedoz E-commerce](http://speedozecommerce.featuredsoft.com/)
